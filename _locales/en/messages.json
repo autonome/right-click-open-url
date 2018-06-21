@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Right-click Open URL",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Open unlinked URLs from the context menu.",
+    "description": "Description of the extension."
+  },
+  "menuLabelOpenURL": {
+    "message": "Open URL",
+    "description": "Label for the menu item to open the URL where the cursor is."
+  }
+}
